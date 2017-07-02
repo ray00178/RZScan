@@ -5,7 +5,7 @@ The RZScan for android to scan code or encode/decode library. And usage：<br/>
 * For __6.0 or later__, The permissions have been handled very well，So don't worry about their own.
 * According to your project color, Setting ur StatusBarColor、ToolBarColor.
 * In Activity or Frangment, Can support the use.
-* You can customize the size of the scan frame and describe the text.<br/>
+* You can customize the size of the scan frame、color or describe the text.<br/>
 
 Screenshots <br/><br/>
 ![](https://github.com/ray00178/RayZhangScan/blob/master/Screenshot_Scan.png)
@@ -169,4 +169,4 @@ limitations under the License.
   ```
 Chinese description
 ====
-[中文說明](https://github.com/ray00178/RayZhangAlbum/blob/master/README_zh.md)
+[中文說明](https://github.com/ray00178/RayZhangScan/blob/master/README_zh.md)
