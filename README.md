@@ -8,8 +8,10 @@ The RZScan for android to scan code or encode/decode library. And usage：<br/>
 * You can customize the size of the scan frame and describe the text.<br/>
 
 Screenshots <br/><br/>
-![](https://github.com/ray00178/RayZhangAlbum/blob/master/Screenshot_1.jpg)
-![](https://github.com/ray00178/RayZhangAlbum/blob/master/Screenshot_2.jpg)<br/>
+![](https://github.com/ray00178/RayZhangScan/blob/master/Screenshot_Scan.png)
+![](https://github.com/ray00178/RayZhangScan/blob/master/Screenshot_QRCode.png)
+![](https://github.com/ray00178/RayZhangScan/blob/master/Screenshot_Code-128.png)
+![](https://github.com/ray00178/RayZhangScan/blob/master/Screenshot_EAN-8.png)<br/>
 <img src="https://github.com/ray00178/RayZhangAlbum/blob/master/Screenshot_3.gif" alt="Demo_gif" title="Demo_gif" width="300" height="500" /><br/><br/>
 Gradle
 ====
