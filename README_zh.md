@@ -1,6 +1,6 @@
 RZScan ![](http://arminray.ga/image/rzscan/rzscan_planform.svg) ![](http://arminray.ga/image/rzscan/rzscan_version.svg) ![](http://arminray.ga/image/rzscan/rzscan_license.svg)
 ====
-RZScan用於Android，在掃描各種條碼或是製作一維/二維條碼. 相關功能如下：<br/>
+RZScan用於Android，在掃描各種條碼或是製作一維/二維條碼，相關功能如下：<br/>
 * 支援掃描各種的條碼格式 
 * 對於__ 6.0以上版本 __，已將權限做很好的處理，故無需擔心要自行處理
 * 依照你的專案配色，可自訂StatusBarColor、ToolBarColor
@@ -137,11 +137,11 @@ Usage
   ```
   7.如果想自訂掃描時的描述或是Dialog標題、內容描述及按鈕名稱，請在strings.xml覆蓋下列的名稱，即可
   ```xml
-   <string name="rzscan_description">Enter something that u want</string>
-   <string name="rzscan_dia_title">Enter something that u want</string>
-   <string name="rzscan_dia_description">Enter something that u want</string>
-   <string name="rzscan_dia_ok">Enter something that u want</string>
-   <string name="rzscan_dia_cancel">Enter something that u want</string>
+   <string name="rzscan_description">將行動條碼對準畫面即可讀取</string>
+   <string name="rzscan_dia_title">啟用相機權限</string>
+   <string name="rzscan_dia_description">開放使用權限後，你就可以開始掃描任何的條碼。</string>
+   <string name="rzscan_dia_ok">開啟</string>
+   <string name="rzscan_dia_cancel">我不要</string>
   ```
 Notice
 ====
