@@ -54,6 +54,11 @@ Usage
   2.在Androidmanifest.xml加入以下權限
   ```xml
     <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.FLASHLIGHT" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+
+    <uses-feature android:name="android.hardware.camera" />
+    <uses-feature android:name="android.hardware.camera.any" />
   ```
   3.調用RZAlbum，有多種使用方法
   ```java
