@@ -9,7 +9,7 @@ The RZScan for android to scan code or encode/decode library. And usage：<br/>
 
 Screenshots <br/><br/>
 ![](https://github.com/ray00178/RayZhangScan/blob/master/Screenshot_Scan.png)
-![](https://github.com/ray00178/RayZhangScan/blob/master/Screenshot_QRCode.png)
+![](https://github.com/ray00178/RayZhangScan/blob/master/Screenshot_QRcode.png)
 ![](https://github.com/ray00178/RayZhangScan/blob/master/Screenshot_Code-128.png)<br/>
 ![](https://github.com/ray00178/RayZhangScan/blob/master/Screenshot_EAN-8.png)
 <img src="https://github.com/ray00178/RayZhangScan/blob/master/Screenshot_1.gif" alt="Demo_gif" title="Demo_gif" width="300" height="500" />
