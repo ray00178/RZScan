@@ -1,4 +1,4 @@
-RZScan ![](http://arminray.ga/image/rzalbum_planform.svg) ![](http://arminray.ga/image/rzalbum_version.svg) ![](http://arminray.ga/image/rzalbum_license.svg)
+RZScan ![](http://arminray.ga/image/rzscan/rzscan_planform.svg) ![](http://arminray.ga/image/rzscan/rzscan_version.svg) ![](http://arminray.ga/image/rzscan/rzscan_license.svg)
 ====
 The RZScan for android to scan code or encode/decode library. And usage：<br/>
 * Support for scanning most barcodes. 
@@ -10,7 +10,7 @@ The RZScan for android to scan code or encode/decode library. And usage：<br/>
 Screenshots <br/><br/>
 ![](https://github.com/ray00178/RayZhangScan/blob/master/Screenshot_Scan.png)
 ![](https://github.com/ray00178/RayZhangScan/blob/master/Screenshot_QRcode.png)
-![](https://github.com/ray00178/RayZhangScan/blob/master/Screenshot_Code-128.png)<br/>
+![](https://github.com/ray00178/RayZhangScan/blob/master/Screenshot_Code-128.png)
 ![](https://github.com/ray00178/RayZhangScan/blob/master/Screenshot_EAN-8.png)
 <img src="https://github.com/ray00178/RayZhangScan/blob/master/Screenshot_1.gif" alt="Demo_gif" title="Demo_gif" width="300" height="500" />
 <img src="https://github.com/ray00178/RayZhangScan/blob/master/Screenshot_2.gif" alt="Demo_gif" title="Demo_gif" width="300" height="500" /><br/><br/>
