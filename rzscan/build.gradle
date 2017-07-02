@@ -102,7 +102,7 @@ bintray {
     configurations = ['archives']
     pkg {
         repo = "maven"      // 這邊是對應jCenter的倉庫名稱
-        name = "rzalbum"    // 發佈到jCenter上的項目名稱
+        name = "rzscan"    // 發佈到jCenter上的項目名稱
         websiteUrl = siteUrl
         vcsUrl = gitUrl
         licenses = ["Apache-2.0"]
