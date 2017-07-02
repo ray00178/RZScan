@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RZScan</string>
+    <string name="rzscan_description">將行動條碼對準畫面即可讀取</string>
+    <string name="rzscan_dia_title">啟用相機權限</string>
+    <string name="rzscan_dia_description">開放使用權限後，你就可以開始掃描任何的條碼。</string>
+    <string name="rzscan_dia_ok">開啟</string>
+    <string name="rzscan_dia_cancel">我不要</string>
+    <string name="rzscan_dia_title_denied">相機功能已被拒絕</string>
+    <string name="rzscan_dia_description_denied">請至手機設定 → 應用程式 → %1$s → 權限，將【相機】開啟</string>
+</resources>
