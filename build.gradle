@@ -30,6 +30,11 @@ allprojects {
     }
 }
 
+subprojects {
+    // jCenter; 加上這些為了防止編碼失敗
+    tasks.withType(Javadoc).all { enabled = false }
+}
+
 task clean(type: Delete) {
     delete rootProject.buildDir
 }
