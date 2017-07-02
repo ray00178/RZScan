@@ -54,6 +54,11 @@ Usage
   2.Androidmanifest.xml, Add the following permissions.
   ```xml
     <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.FLASHLIGHT" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+
+    <uses-feature android:name="android.hardware.camera" />
+    <uses-feature android:name="android.hardware.camera.any" />
   ```
   3.Use RZScan. There are many ways to call.
   ```java
